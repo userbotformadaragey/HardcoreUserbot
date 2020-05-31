@@ -16,4 +16,4 @@ async def amireallyalive(alive):
                      "**✅Bot Made By:- @Unknown_Hacker_X\n◆ ▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬ ◆\n**"
                      "**✅Database Status: Databases functioning normally!**\n◆ ▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬ ◆\n💞Always with you, my peru master!\n`"
                      f"`My peru owner`: {DEFAULTUSER}\n"
-                     "Get Your Own UserBot. [Ask My Creator](https://t.me/Unknown_Hackee_X)")
+                     "Get Your Own UserBot. [Ask My Creator](https://t.me/Unknown_Hacker_X)")
