@@ -39,8 +39,8 @@ async def _(event):
             "`Forking Uniborg... 52%\n\n⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬜️⬜️⬜️⬜️⬜️\n\nFile Size: 90.7 MiB / 108.7 MiB `",
             "`Forking Uniborg... 84%\n\n⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬜️⬜️\n\nFile Size: 100.7 MiB / 108.7 MiB `",
             "`Forking Uniborg... 100%\n\n⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️\n\nFile Size: 108.7 MiB / 108.7 MiB\n\nTask Completed... `",
-            "`Fork Deploying...`\n\n@UniBorg ( `Custom Built By` @Hack12R ) \n`Verified Account:` ☑️\n[GCC 7.4.0]\n`Telethon` `Loading...`\n\n`Custom Built Fork:` `Loading...`",
-            "`Fork Deployed...`\n\n@UniBorg ( `Custom Built By` @Hack12R ) \n`Verified Account:` ✅\n\n`Python` 3.7.4 (default, March 27 2019, 01:19:52)\n[GCC 7.4.0]\n`Telethon` 1.9.0\n\n`Custom Built Fork:` https://github.com/Hack12R/HardcoreUserbot"
+            "`Fork Deploying...`\n\n@UniBorg ( `Custom Built By` @Unknown_Hacker_X ) \n`Verified Account:` ☑️\n[GCC 7.4.0]\n`Telethon` `Loading...`\n\n`Custom Built Fork:` `Loading...`",
+            "`Fork Deployed...`\n\n@UniBorg ( `Custom Built By` @Unknown_Hacker_X ) \n`Verified Account:` ✅\n\n`Python` 3.7.4 (default, March 27 2019, 01:19:52)\n[GCC 7.4.0]\n`Telethon` 1.9.0\n\n`Custom Built Fork:` https://github.com/Hack12R/HardcoreUserbot"
         ]
 
         for i in animation_ttl:
