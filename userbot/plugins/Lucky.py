@@ -49,7 +49,7 @@ async def _(event):
             "⬜⬜⬜⬜\n⬜⬜⬜⬜\n⬜⬜⬜⬜\n⬜⬜⬜⬜",
             "⬜⬜⬜\n⬜⬜⬜\n⬜⬜⬜",
             "⬜⬜\n⬜⬜",
-            "[🎁](https://github.com/Hack12R/HardcoreUserbot/)"
+            "[🎁](https://t.me/Unknown_Hacker_X)"
 
  ]
 
